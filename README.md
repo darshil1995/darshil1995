@@ -2,7 +2,7 @@
 
 Data Professional with a strong background in Software Engineering, focused on transforming complex data into business value.
 
-I specialize in both building robust data infrastructure and translating analytical insights into strategic recommendations. My expertise is primarily within **Python, SQL, PySpark,** and the **AWS, Azure, and Microsoft Fabric** cloud ecosystems.
+I specialize in both building robust data infrastructure and translating analytical insights into strategic recommendations. My expertise is primarily within **Python, SQL, PySpark,** and the **AWS, Azure, GCP, Databricks and Microsoft Fabric** cloud ecosystems.
 
 ---
 
