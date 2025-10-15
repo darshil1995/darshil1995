@@ -1,22 +1,27 @@
 # 👋 Hello, I'm Darshil Shah
 
-Data Professional with a strong background in Software Engineering, focused on transforming complex data into business value.
+Data Professional and former Software Developer with a **dual focus on building robust, scalable data infrastructure and transforming raw data into clear, quantifiable business strategy.** My background in software engineering allows me to design solutions that are not just analytical, but also maintainable, automated, and production-ready.
 
 I specialize in both building robust data infrastructure and translating analytical insights into strategic recommendations. My expertise is primarily within **Python, SQL, PySpark,** and the **AWS, Azure, GCP, Databricks and Microsoft Fabric** cloud ecosystems.
 
 ---
 
-## 🛠️ Core Expertise
+## 🛠️ Technical Depth & Expertise
 
-| Focus Area | Key Skills & Technologies |
-| :--- | :--- |
-| **Data Engineering** | Cloud Data Pipelines (AWS, Azure, GCP, Fabric, Databricks), ETL/ELT Automation, Apache Spark/PySpark, Delta Lake, Real-time Streaming (Kafka/Redpanda), Data Modeling, Snowflake. |
-| **Data Analysis** | Statistical Analysis, Predictive Modeling, Exploratory Data Analysis (EDA), Business Intelligence (Power BI, Tableau), Pandas, Scikit-learn, Financial Analysis. |
-| **Foundational** | Python, SQL, Java, Scala, Git, CI/CD, Agile Methodologies. |
+I manage the entire data lifecycle, from ingestion and architecture design to final visualization and insight delivery.
+
+| Area | Core Technologies | Deep Dive Focus |
+| :--- | :--- | :--- |
+| **Data Engineering** | **AWS** (S3, Glue, Athena), **Azure** (Data Factory, Databricks), **Microsoft Fabric**, **GCP**, Apache Spark/PySpark, Delta Lake, Snowflake. | Building cloud-native **ETL/ELT pipelines**, data lake architecture, schema design, and query optimization for performance. |
+| **Real-time Data** | **Kafka** (Redpanda), Streaming APIs. | Implementing **real-time streaming pipelines** and monitoring to ensure low-latency data availability for operational dashboards. |
+| **Data Analysis & BI** | **Python** (Pandas, NumPy, Scikit-learn), **SQL**, Power BI, Tableau, Excel. | **Predictive modeling** (e.g., Random Forest), **Statistical analysis** (A/B testing, churn drivers), and **actionable business storytelling**. |
+| **Foundational** | Python, Java, Scala, Git, CI/CD, Agile. | Developing and deploying data solutions with version control, testing, and continuous integration best practices. |
 
 ---
 
 ## 📁 Featured Projects
+
+My projects are structured to showcase **end-to-end capabilities**, demonstrating both the engineering complexity and the resulting business value. **Click the links below to view the full GitHub repositories.**
 
 ### I. Data Engineering Pipelines (Building the Data Foundation)
 
@@ -41,6 +46,8 @@ These case studies showcase my analytical depth, predictive modeling skills, and
 ---
 
 ## 📞 Let's Connect
+
+I am actively seeking Data Analyst and Data Engineering opportunities where I can turn my technical skills into tangible business results.
 
 * **LinkedIn:** https://www.linkedin.com/in/darshil-shah-38a780a8/
 * **Email:** darshil321995@gmail.com
