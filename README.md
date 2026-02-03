@@ -1,54 +1,64 @@
-# 👋 Hello, I'm Darshil Shah
+👋 Hello, I'm Darshil Shah 
 
-Data Professional and former Software Developer with a **dual focus on building robust, scalable data infrastructure and transforming raw data into clear, quantifiable business strategy.** My background in software engineering allows me to design solutions that are not just analytical, but also maintainable, automated, and production-ready.
+Machine Learning Engineer | Data Professional | Former Software Developer 
+*Bridging the gap between high-performance data engineering and production-grade Machine Learning.*
 
-I specialize in both building robust data infrastructure and translating analytical insights into strategic recommendations. My expertise is primarily within **Python, SQL, PySpark,** and the **AWS, Azure, GCP, Databricks and Microsoft Fabric** cloud ecosystems.
+I am an ML-focused professional with a **Software Engineering background** and a deep expertise in the end-to-end lifecycle of **AI/ML systems** from data ingestion and cleaning to real-time model deployment. My philosophy is that a model is only as good as its accessibility; I focus on building systems that are not just accurate, but maintainable, automated, and production-ready.
+
+I specialize in **Natural Language Processing (NLP)**, **Predictive Modeling**, and **MLOps**, primarily within the **Python**, **AWS**, and **Azure** ecosystems.
 
 ---
 
 ## 🛠️ Technical Depth & Expertise
 
-I manage the entire data lifecycle, from ingestion and architecture design to final visualization and insight delivery.
+I manage the complete ML lifecycle: data engineering, feature engineering, model training, and API deployment.
 
 | Area | Core Technologies | Deep Dive Focus |
-| :--- | :--- | :--- |
-| **Data Engineering** | **AWS** (S3, Glue, Athena), **Azure** (Data Factory, Databricks), **Microsoft Fabric**, **GCP**, Apache Spark/PySpark, Delta Lake, Snowflake. | Building cloud-native **ETL/ELT pipelines**, data lake architecture, schema design, and query optimization for performance. |
-| **Real-time Data** | **Kafka** (Redpanda), Streaming APIs. | Implementing **real-time streaming pipelines** and monitoring to ensure low-latency data availability for operational dashboards. |
-| **Data Analysis & BI** | **Python** (Pandas, NumPy, Scikit-learn), **SQL**, Power BI, Tableau, Excel. | **Predictive modeling** (e.g., Random Forest), **Statistical analysis** (A/B testing, churn drivers), and **actionable business storytelling**. |
-| **Foundational** | Python, Java, Scala, Git, CI/CD, Agile. | Developing and deploying data solutions with version control, testing, and continuous integration best practices. |
+| --- | --- | --- |
+| **Machine Learning** | **Scikit-learn**, **NLP** (NLTK), **FastAPI**, **SynapseML**, Pandas, NumPy. | Building high-precision classifiers, **predictive modeling**, and deploying models as REST APIs for real-time inference. |
+| **Data Engineering** | **AWS** (S3, Glue, Athena), **Azure** (Data Factory, Databricks), **PySpark**, Kafka. | Architecting **ML-ready data pipelines**, real-time streaming for feature stores, and automated ETL/ELT.
+| **Analytics & BI** | **SQL**, Power BI, Tableau, EDA, Statistical Analysis. | Transforming model outputs into **actionable business strategy** and interactive performance dashboards.
+| **Foundational** | Python, Java, Scala, Git, **CI/CD**, Agile. | Ensuring code quality, version control, and **continuous deployment** of software and ML models.
 
 ---
 
 ## 📁 Featured Projects
 
-My projects are structured to showcase **end-to-end capabilities**, demonstrating both the engineering complexity and the resulting business value. **Click the links below to view the full GitHub repositories.**
+### I. Machine Learning & AI Deployment (Intelligence in Production)
 
-### I. Data Engineering Pipelines (Building the Data Foundation)
+These projects showcase my ability to train, optimize, and deploy models that solve real-world problems.
 
-These projects demonstrate my ability to design, build, and optimize scalable, end-to-end data systems in the cloud.
+| Project | Type | Key Results & Tech |
+| --- | --- | --- |
+| **[1. Email Spam Detection & Deployment](https://github.com/darshil1995/Email-Spam-Detection)** | **NLP / MLOps** | Achieved **97.19% Accuracy** with Logistic Regression. Deployed as a live web tool using **FastAPI** and **Jinja2**. |
+| **[2. Customer Churn Prediction](https://github.com/darshil1995/CustomerChurnAnalysis)** | **Classification** | Identified high-risk segments with **78.7% accuracy** using Random Forest. Implemented feature importance analysis.
+| **[3. Loan Applicant Risk Modeling](https://github.com/darshil1995/Loan-Application-Analysis)** | **Predictive Analysis** | Engineered features to forecast approvals with **76% accuracy**. Visualized risk metrics in **Tableau**.
 
-| Project | Cloud Stack | Key Skills Demonstrated |
-| :--- | :--- | :--- |
-| **[1. Spotify End-to-End Data Pipeline](https://github.com/darshil1995/Spotify-Analysis-AWS-)** | **AWS** (S3, Glue, Athena, EC2, IAM), **Redpanda (Kafka)** | Real-time streaming, Cloud ETL automation, Data Lake architecture design, PySpark transformation. |
-| **[2. News Sentiment Analytics](https://github.com/darshil1995/News-Analysis-Fabric)** | **Microsoft Fabric, Azure** (Data Factory, Synapse) | Incremental loading, Spark/SynapseML, Delta Lake, Real-time alerting (Data Activator), Power BI integration. |
-| **[3. Earthquake Data Engineering Pipeline](https://github.com/darshil1995/Earthquake-Pipeline)** | **Azure** (Data Factory, Databricks, ADLS) | ETL automation (zero manual processing), Parquet optimization, Schema Evolution, Error Logging. |
+### II. Data Engineering & ML Infrastructure (The Foundation for AI)
 
-### II. Data Analysis Case Studies (Driving Business Insights)
+Scalable systems built to feed high-quality data into analytical and predictive workloads.
 
-These case studies showcase my analytical depth, predictive modeling skills, and ability to generate quantifiable business insights.
+| Project | Cloud Stack | Key Capabilities |
+| --- | --- | --- |
+| **[1. Spotify Real-time Data Pipeline](https://github.com/darshil1995/Spotify-Analysis-AWS-)** | **AWS**, **Kafka** | Real-time streaming and automated storage in S3 Data Lake (Raw to Processed).
+| **[2. News Sentiment Analytics](https://github.com/darshil1995/News-Analysis-Fabric)** | **Microsoft Fabric**, **SynapseML** | End-to-end sentiment classification using Spark and real-time alerting based on threshold breaches.
+| **[3. Earthquake Pipeline Optimization](https://github.com/darshil1995/Earthquake-Pipeline)** | **Azure**, **Databricks** | Automated API ingestion and Parquet optimization, improving query performance by **~40%**.
 
-| Project | Analysis Focus | Key Results & Tools |
-| :--- | :--- | :--- |
-| **[1. Customer Churn Analysis](https://github.com/darshil1995/CustomerChurnAnalysis)** | Telecommunications Retention | Identified **42.7%** churn in month-to-month segment; **78.7% accurate** predictive model (RFC). **Tools:** Python (Pandas), Power BI. |
-| **[2. Loan Applicant Analysis](https://github.com/darshil1995/Loan-Application-Analysis)** | Financial Risk Modeling | Predictive model achieved over **76% accuracy** in forecasting loan approval; used **Tableau** for demographic and financial trend analysis. |
-| **[3. US Pollution Analysis](https://github.com/darshil1995/US-Pollution-Analysis)** | Environmental Trend Analysis | EDA on 665k rows revealed **significant long-term air quality improvement** and identified Ozone ($\text{O}_3$) as the primary driver. **Tools:** Python (Matplotlib, Seaborn). |
+---
+
+## 📈 Professional Evolution
+
+* **Experience:** 4+ years as a **Software Developer** focused on Android apps and API integrations. Currently a Data Trainee at **CloudyML** simulating production-ready data solutions.
+* **Philosophy:** I believe in **Lifelong Learning**. I am currently deep-diving into Advanced MLOps and Big Data scaling to ensure my models remain performant at massive scales.
 
 ---
 
 ## 📞 Let's Connect
 
-I am actively seeking Data Analyst and Data Engineering opportunities where I can turn my technical skills into tangible business results.
+I am actively seeking **Machine Learning Engineer**, **Data Analyst**, or **Data Engineering** opportunities where I can apply my "Software-First" mindset to build intelligent systems.
 
-* **LinkedIn:** https://www.linkedin.com/in/darshil-shah-38a780a8/
+* **LinkedIn:** [https://www.linkedin.com/in/darshil-shah-38a780a8/](https://www.linkedin.com/in/darshil-shah-38a780a8/) 
+
 * **Email:** darshil321995@gmail.com
-* **Portfolio Website:** https://github.com/darshil1995/darshil1995/
+
+* **GitHub:** [https://github.com/darshil1995](https://github.com/darshil1995) 
