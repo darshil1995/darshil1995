@@ -15,7 +15,7 @@ I manage the complete ML lifecycle: data engineering, feature engineering, model
 
 | Area | Core Technologies | Deep Dive Focus |
 | --- | --- | --- |
-| **Machine Learning** | **Scikit-learn**, **NLP** (NLTK), **FastAPI**, **SynapseML**, Pandas, NumPy. | Building high-precision classifiers, **predictive modeling**, and deploying models as REST APIs for real-time inference. |
+| **Machine Learning** | **Scikit-learn**, **NLP** (NLTK), **FastAPI**, **Streamlit**, **SynapseML**, Pandas, NumPy. | Building high-precision classifiers, **predictive modeling**, and deploying models as REST APIs for real-time inference. |
 | **Data Engineering** | **AWS** (S3, Glue, Athena), **Azure** (Data Factory, Databricks), **PySpark**, Kafka. | Architecting **ML-ready data pipelines**, real-time streaming for feature stores, and automated ETL/ELT.
 | **Analytics & BI** | **SQL**, Power BI, Tableau, EDA, Statistical Analysis. | Transforming model outputs into **actionable business strategy** and interactive performance dashboards.
 | **Foundational** | Python, Java, Scala, Git, **CI/CD**, Agile. | Ensuring code quality, version control, and **continuous deployment** of software and ML models.
