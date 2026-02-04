@@ -31,8 +31,7 @@ These projects showcase my ability to train, optimize, and deploy models that so
 | Project | Type | Key Results & Tech |
 | --- | --- | --- |
 | **[1. Email Spam Detection & Deployment](https://github.com/darshil1995/Email-Spam-Detection)** | **NLP / MLOps** | Achieved **97.19% Accuracy** with Logistic Regression. Deployed as a live web tool using **FastAPI** and **Jinja2**. |
-| **[2. Customer Churn Prediction](https://github.com/darshil1995/CustomerChurnAnalysis)** | **Classification** | Identified high-risk segments with **78.7% accuracy** using Random Forest. Implemented feature importance analysis.
-| **[3. Loan Applicant Risk Modeling](https://github.com/darshil1995/Loan-Application-Analysis)** | **Predictive Analysis** | Engineered features to forecast approvals with **76% accuracy**. Visualized risk metrics in **Tableau**.
+| **[2. CineMatch AI: Modular ETL & Recommendation System](https://github.com/darshil1995/Movie-Recommendation-CineMatch-AI-)** | ML Engineering / ETL | Engineered a modular pipeline to process 32M ratings. Utilized TF-IDF & Cosine Similarity for recommendations, deployed via Streamlit with TMDB API integration. |
 
 ### II. Data Engineering & ML Infrastructure (The Foundation for AI)
 
@@ -43,6 +42,16 @@ Scalable systems built to feed high-quality data into analytical and predictive 
 | **[1. Spotify Real-time Data Pipeline](https://github.com/darshil1995/Spotify-Analysis-AWS-)** | **AWS**, **Kafka** | Real-time streaming and automated storage in S3 Data Lake (Raw to Processed).
 | **[2. News Sentiment Analytics](https://github.com/darshil1995/News-Analysis-Fabric)** | **Microsoft Fabric**, **SynapseML** | End-to-end sentiment classification using Spark and real-time alerting based on threshold breaches.
 | **[3. Earthquake Pipeline Optimization](https://github.com/darshil1995/Earthquake-Pipeline)** | **Azure**, **Databricks** | Automated API ingestion and Parquet optimization, improving query performance by **~40%**.
+
+### III. Data Analysis Projects
+
+These projects showcase my ability to visualizie and analyse the data and creating dashboards in PowerBi and Tableau
+
+| Project | Type | Key Results & Tech |
+| --- | --- | --- |
+| **[1. Customer Churn Prediction](https://github.com/darshil1995/CustomerChurnAnalysis)** | **Classification** | Identified high-risk segments with **78.7% accuracy** using Random Forest. Implemented feature importance analysis.
+| **[2. Loan Applicant Risk Modeling](https://github.com/darshil1995/Loan-Application-Analysis)** | **Predictive Analysis** | Engineered features to forecast approvals with **76% accuracy**. Visualized risk metrics in **Tableau**. |
+|**[3. US Pollution Analysis & Trend Modeling](https://github.com/darshil1995/US-Pollution-Analysis)** | Data Analytics / EDA | Executed end-to-end EDA on a 665k-row dataset to identify air quality trends across two decades. Engineered a custom Overall AQI feature and utilized temporal/geographical analysis to pinpoint regional pollution hotspots.|
 
 ---
 
