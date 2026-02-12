@@ -30,8 +30,9 @@ These projects showcase my ability to train, optimize, and deploy models that so
 
 | Project | Type | Key Results & Tech |
 | --- | --- | --- |
-| **[1. Email Spam Detection & Deployment](https://github.com/darshil1995/Email-Spam-Detection)** | **NLP / MLOps** | Achieved **97.19% Accuracy** with Logistic Regression. Deployed as a live web tool using **FastAPI** and **Jinja2**. |
-| **[2. CineMatch AI: Modular ETL & Recommendation System](https://github.com/darshil1995/Movie-Recommendation-CineMatch-AI-)** | ML Engineering / ETL | Engineered a modular pipeline to process 32M ratings. Utilized TF-IDF & Cosine Similarity for recommendations, deployed via Streamlit with TMDB API integration. |
+| **[1. Production-Ready Pet Classifier](https://github.com/darshil1995/Pet-Classifier-End-to-End-MLOps-Full-Stack-API-)** | **Computer Vision / MLOps / Full-Stack** | Achieved 99% accuracy using MobileNetV2. Engineered a high-throughput pipeline with **tf.data pre-fetching** and **Pytest** validation gates. Deployed as a containerized **FastAPI** service with a persistent UI history. |
+| **[2. Email Spam Detection & Deployment](https://github.com/darshil1995/Email-Spam-Detection)** | **NLP / MLOps** | Achieved **97.19% Accuracy** with Logistic Regression. Deployed as a live web tool using **FastAPI** and **Jinja2**. |
+| **[3. CineMatch AI: Modular ETL & Recommendation System](https://github.com/darshil1995/Movie-Recommendation-CineMatch-AI-)** | ML Engineering / ETL | Engineered a modular pipeline to process 32M ratings. Utilized TF-IDF & Cosine Similarity for recommendations, deployed via Streamlit with TMDB API integration. |
 
 ### II. Data Engineering & ML Infrastructure (The Foundation for AI)
 
