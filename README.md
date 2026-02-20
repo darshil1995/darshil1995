@@ -111,9 +111,9 @@ darshil = {
 
 | Credential | Institution | Year |
 |---|---|---|
-| 📜 Machine Learning I | Columbia University (Coursera) | — |
-| 📜 Data Analysis & Visualization with Power BI | Microsoft | — |
-| 📜 Microsoft 365 Certified: Fundamentals | Microsoft | — |
+| 📜 Machine Learning I | Columbia University (Coursera) | 2025 |
+| 📜 Data Analysis & Visualization with Power BI | Microsoft | 2025 |
+| 📜 Microsoft 365 Certified: Fundamentals | Microsoft | 2023 |
 
 ---
 
