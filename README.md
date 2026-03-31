@@ -31,10 +31,10 @@ My core belief: **a model is only as good as its infrastructure.** I don't just 
 
 ```python
 darshil = {
-    "focus"       : ["MLOps", "NLP", "Computer Vision", "Predictive Modeling"],
+    "focus"       : ["AI", "MLOps", "NLP", "Computer Vision", "Predictive Modeling"],
     "cloud"       : ["AWS (S3, Glue, Athena, Lambda)", "Azure (Databricks, Data Factory, Fabric)"],
     "currently"   : "Deep-diving into Advanced MLOps & Big Data scaling",
-    "open_to"     : ["ML Engineer", "Data Engineer", "Data Analyst"],
+    "open_to"     : ["AI Engineer", "ML Engineer", "Data Scientist", "Data Engineer", "Data Analyst"],
     "philosophy"  : "Ship models that work in production, not just in notebooks."
 }
 ```
