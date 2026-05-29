@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,100:2E86C1&height=200&section=header&text=Darshil%20Shah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20Agentic%20AI%20Systems%20%7C%20MLOps%20%7C%20AWS&descAlignY=58&descColor=AED6F1&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A5276,100:2E86C1&height=200&section=header&text=Darshil%20Shah&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Agentic%20AI%20Systems%20%7C%20MLOps%20%7C%20AWS/Azure/GCP&descAlignY=58&descColor=AED6F1&animation=fadeIn" width="100%" />
 
 <!-- TYPING ANIMATION -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&multiline=false&width=700&lines=Building+production-grade+AI+%26+ML+systems;Agentic+AI+%7C+AWS+Infrastructure+%7C+Tool+Use;End-to-end+MLOps+%7C+NLP+%7C+Computer+Vision;From+raw+data+to+deployed+intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2E86C1&center=true&vCenter=true&multiline=false&width=700&lines=Building+production-grade+AI+%26+ML+systems;Agentic+AI+%7C+Cloud+Infrastructure+%7C+Tool+Use;End-to-end+MLOps+%7C+NLP;From+raw+data+to+deployed+intelligence)](https://git.io/typing-svg)
 
 <br/>
 
@@ -17,7 +17,7 @@
 <br/>
 
 <!-- OPEN TO WORK BADGE -->
-> 🟢 **Actively seeking:** Machine Learning Engineer · AI Engineer · Data Engineer · Data Analyst roles
+> 🟢 **Actively seeking:**  AI Engineer · Machine Learning Engineer · Data Engineer · Data Analyst roles
 
 </div>
 
@@ -31,9 +31,9 @@ My core belief: **a model is only as good as its infrastructure.** I don't just 
 
 ```python
 darshil = {
-    "focus"       : ["Agentic AI Systems", "MLOps", "NLP", "Computer Vision", "Predictive Modeling"],
-    "cloud"       : ["AWS (EC2, CloudWatch, IAM, S3, Glue, Athena, Lambda)", "Azure (Databricks, Data Factory, Fabric)"],
-    "currently"   : "Building Agentic AI systems with real AWS infrastructure integration",
+    "focus"       : ["Agentic AI Systems", "MLOps", "NLP", "Predictive Modeling"],
+    "cloud"       : ["AWS (EC2, CloudWatch, IAM, S3, Glue, Athena, Lambda)", "Azure (Databricks, Data Factory, Fabric)", "GCP"]
+    "currently"   : "Building Agentic AI systems with real Cloud infrastructure integration",
     "open_to"     : ["AI Engineer", "ML Engineer", "Data Scientist", "Data Engineer", "Data Analyst"],
     "philosophy"  : "Ship models that work in production, not just in notebooks."
 }
