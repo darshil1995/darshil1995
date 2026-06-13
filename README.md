@@ -136,7 +136,7 @@ darshil = {
 
 <div align="center">
 
-I'm actively looking for my next opportunity. If you're hiring for **AI Engineering**, **ML Engineering**, **Data Engineering**, or **Data Analytics** roles — let's talk.
+I'm actively looking for my next opportunity. If you're hiring for **Generative AI**, **AI Engineering**, **ML Engineering**, or **Data Engineering** roles — let's talk.
 
 <br/>
 
