@@ -84,6 +84,7 @@ darshil = {
 
 | Project | What It Does | Key Results | Stack |
 |---|---|---|---|
+| [**💰 Wealth Management Gen AI Assistant**](https://github.com/darshil1995/wealth-ai-assistant) | RAG-powered assistant that answers questions over financial documents - hybrid retrieval, PII redaction before LLM calls, prompt injection protection, versioned prompts, and structured citations on every answer via a REST API and MCP server | Hybrid BM25 + vector search · RRF merging · Presidio PII gate · 20 automated tests · MCP tool server · live Swagger UI | GPT-4o · FastAPI · ChromaDB · LangChain · Presidio · MCP · Pydantic · pytest |
 | [**☁️ Cloud Cost Optimization Agent**](https://github.com/darshil1995/cloud-cost-agent) | AI agent that queries AWS EC2 + CloudWatch in plain English — detects idle instances, estimates monthly cost waste, and returns ranked Stop / Downsize / Investigate recommendations via a REST API | 4 AWS tools · 29 automated tests · zero real cloud calls needed · live Swagger UI demo · IAM role auth | Claude API · FastAPI · boto3 · Pydantic v2 · pytest · moto |
 | [**🎫 Automated Jira Ticket Routing Agent**](https://github.com/darshil1995/automated-jira-ticket-routing-agent) | LLM-powered agent that reads incoming support tickets and automatically routes them to the correct Jira board, project, and assignee based on content classification — eliminating manual triage entirely | Structured tool use · Jira API integration · function calling loop | Claude API · FastAPI · Pydantic · Jira API |
 
