@@ -17,7 +17,7 @@
 <br/>
 
 <!-- OPEN TO WORK BADGE -->
-> 🟢 **Actively seeking:**  AI Engineer · Machine Learning Engineer · Data Engineer · Data Analyst roles
+> 🟢 **Actively seeking:** Generative AI · AI Engineer · Machine Learning Engineer · Data Engineer roles
 
 </div>
 
